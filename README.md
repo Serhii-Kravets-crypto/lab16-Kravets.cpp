@@ -1,1 +1,0 @@
-# lab16-Kravets.cpp
